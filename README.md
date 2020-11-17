@@ -11,3 +11,4 @@
 ## *SQL Data Screenshot*
 
 ![pycharm data query](screenshots/query.png)
+
